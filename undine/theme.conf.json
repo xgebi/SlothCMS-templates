@@ -1,0 +1,14 @@
+{
+  "name": "Undine",
+  "version": "0.0.1",
+  "special-toes": {
+    "home": {
+      "name": "home",
+      "regions": ["highlight", "about"]
+    },
+    "contact": {
+      "name": "contact",
+      "scripts": "contact"
+    }
+  }
+}
