@@ -10,5 +10,13 @@
       "name": "contact",
       "scripts": "contact"
     }
+  },
+  "scripts": {
+    "folder": "js",
+    "scripts": ["main.js"]
+  },
+  "styles": {
+    "folder": "css",
+    "styles": ["style.css"]
   }
 }
