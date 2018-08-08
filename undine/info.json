@@ -1,0 +1,28 @@
+{
+  "name": "undine",
+  "displayName": "Undine",
+  "version": "0.0.1",
+  "licence": "MIT",
+  "templates": {
+    "folder": "templates",
+    "defaultTemplate": "index.toe",
+    "regions": [
+      "header",
+      "body",
+      "footer"
+    ],
+    "specialTemplates": {
+      "postTypeName": "page",
+      "template": "page.toe",
+      "regions": ["sidebar"]
+    }
+  },
+  "scripts": {
+    "folder": "js",
+    "scripts": ["main.js"]
+  },
+  "styles": {
+    "folder": "css",
+    "styles": ["style.css"]
+  }
+}
