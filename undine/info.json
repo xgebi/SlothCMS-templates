@@ -11,11 +11,13 @@
       "body",
       "footer"
     ],
-    "specialTemplates": {
-      "postTypeName": "page",
-      "template": "page.toe",
-      "regions": ["sidebar"]
-    }
+    "specialTemplates": [
+      {
+        "postTypeName": "page",
+        "template": "page.toe",
+        "regions": ["sidebar"]
+      }
+    ]
   },
   "scripts": {
     "folder": "js",
