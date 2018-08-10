@@ -13,7 +13,7 @@
   <!-- Place favicon.ico in the root directory -->
 
   <# stylesheets #>
-  <# header_scripts #>
+  <# scripts_header #>
   
 </head>
 
