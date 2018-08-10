@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
+<# import "header" #>
 
-  </head>
-  <body>
-
-  </body>
-</html>
+<# import "footer" #>
