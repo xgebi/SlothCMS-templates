@@ -4,7 +4,9 @@
 
   <article>
     <header>
-      <h2><# print post.title #></h2>
+      <a href="<# post.link #>">
+        <h2><# print post.title #></h2>
+      </a>
       <span><# print post.publishedDate #></span>
     </header>
     <# print post.content #>
