@@ -1,7 +1,6 @@
 <# import "header" #>
 
-<# if posts: post #>
-
+<# foreach post in posts #>
   <article>
     <header>
       <a href="<# post.link #>">
@@ -11,7 +10,6 @@
     </header>
     <# print post.content #>
   </article>
-
-<# endif #>
+<# endforeach #>
 
 <# import "footer" #>
