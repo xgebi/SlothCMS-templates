@@ -25,6 +25,6 @@
   },
   "styles": {
     "folder": "css",
-    "styles": ["style.css"]
+    "styles": ["styles.css"]
   }
 }

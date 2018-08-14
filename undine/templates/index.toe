@@ -1,3 +1,15 @@
 <# import "header" #>
 
+<# if posts: post #>
+
+  <article>
+    <header>
+      <h2><# print post.title #></h2>
+      <span><# print post.publishedDate #></span>
+    </header>
+    <# print post.content #>
+  </article>
+
+<# endif #>
+
 <# import "footer" #>
